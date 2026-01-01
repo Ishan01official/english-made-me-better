@@ -10,25 +10,25 @@ A **sentence** is a group of words that expresses a complete thought.
 
 ## Kind of Sentences 
 
-### Asserative or Declarative
+### 1. Asserative or Declarative
 Those which make a statements or assertions as
 
 - Humpty Dumpty sat on a wall.
 
-### Interrogative
+### 2. Interrogative
 Those which ask a question; as
 
 - Where do you live?
 - What is your name? 
 - How old are you?
 
-### Imperative
+### 3. Imperative
 Those which express commands, requests, or entreaties; as,
 
 - Be quiet.
 - Have mercy upon us.
 
-### Exclamatory
+### 4. Exclamatory
 Those which express strong feelings; as,
 
 - How cold the night is!
