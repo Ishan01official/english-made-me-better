@@ -108,3 +108,87 @@ A word which expresses some sudden feeling; as;
 ## Sentence:
 - **Wow!** That’s amazing.
 - **Hurrah!** We have won the game.
+
+
+# Quick Tip to Remember:
+- **Noun** → name  
+- **Verb** → action / state  
+- **Adjective** → describes noun  
+- **Adverb** → describes verb / adjective  
+- **Preposition** → position  
+- **Conjunction** → joins  
+- **Interjection** → emotion  
+
+---
+
+# Examples of Sentences with Parts of Speech
+
+## Example 1
+### Sentence:
+- The small boy runs quickly.
+
+| **Word** | **Part of Speech**  | **Explanation**              |
+| -------- | ------------------- | ---------------------------- |
+| The      | Article (Adjective) | Describes the noun           |
+| small    | Adjective           | Describes the boy            |
+| boy      | Noun                | Name of a person             |
+| runs     | Verb                | Shows action                 |
+| quickly  | Adverb              | Tells how the action happens |
+
+## Example 2
+### Sentence:
+- She is very happy today.
+
+| **Word** | **Part of Speech** | **Explanation**   |
+| -------- | ------------------ | ----------------- |
+| She      | Pronoun            | Replaces a noun   |
+| is       | Verb               | State of being    |
+| very     | Adverb             | Modifies “happy”  |
+| happy    | Adjective          | Describes feeling |
+| today    | Adverb             | Tells when        |
+
+## Example 3
+### Sentence:
+- The cat is under the table.
+
+| **Word** | **Part of Speech**  | **Explanation**   |
+| -------- | ------------------- | ----------------- |
+| The      | Article (Adjective) | Describes noun    |
+| cat      | Noun                | Name of an animal |
+| is       | Verb                | State of being    |
+| under    | Preposition         | Shows position    |
+| the      | Article             | Describes noun    |
+| table    | Noun                | Name of a thing   |
+
+## Example 4
+### Sentence:
+- I wanted to go, but it was raining.
+
+| **Word** | **Part of Speech** | **Explanation**   |
+| -------- | ------------------ | ----------------- |
+| I        | Pronoun            | Replaces a noun   |
+| wanted   | Verb               | Shows action      |
+| to       | Infinitive marker  | Used with a verb  |
+| go       | Verb               | Action            |
+| but      | Conjunction        | Joins ideas       |
+| it       | Pronoun            | Refers to weather |
+| was      | Verb               | State of being    |
+| raining  | Verb               | Action            |
+
+## Example 5
+### Sentence:
+- Wow! The children are playing happily in the park.
+
+| **Word** | **Part of Speech** | **Explanation** |
+| -------- | ------------------ | --------------- |
+| Wow!     | Interjection       | Shows emotion   |
+| The      | Article            | Describes noun  |
+| children | Noun               | Name of people  |
+| are      | Verb               | State of being  |
+| playing  | Verb               | Action          |
+| happily  | Adverb             | Tells how       |
+| in       | Preposition        | Shows place     |
+| the      | Article            | Describes noun  |
+| park     | Noun               | Name of place   |
+
+
