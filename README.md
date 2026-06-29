@@ -173,6 +173,17 @@ Track:
 
 The goal is not perfection. The goal is visible improvement every week.
 
+## Deep Practice Library
+
+For book-style depth and larger example banks, use:
+
+- `grammar/19-grammar-deep-dive-120-patterns.md`
+- `writing/08-professional-english-150-examples.md`
+- `speaking/09-speaking-deep-practice-120-scenarios.md`
+- `pronunciation/17-pronunciation-word-bank-150-drills.md`
+- `vocabulary/08-vocabulary-usage-200-sentences.md`
+- `practice/100-day-deep-practice-curriculum.md`
+
 ## Future Improvements
 
 - Add more original practice questions.

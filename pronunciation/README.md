@@ -21,3 +21,7 @@ Start with sounds, then IPA, vowels, consonants, stress, rhythm, intonation, and
 15. Diphthongs
 16. Rhythm
 17. Silent letters
+
+## Deep Practice
+
+- `17-pronunciation-word-bank-150-drills.md` - large pronunciation drill bank.
