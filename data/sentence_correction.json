@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "wrong_sentence": "He do not know the answer.",
+    "correct_sentence": "He does not know the answer.",
+    "explanation": "This is a subject-verb agreement mistake. Use the corrected form for clear English.",
+    "mistake_type": "subject-verb agreement",
+    "better_professional_version": "He does not know the answer."
+  },
+  {
+    "id": 2,
+    "wrong_sentence": "I am having a doubt.",
+    "correct_sentence": "I have a question.",
+    "explanation": "This is a Indian English phrase mistake. Use the corrected form for clear English.",
+    "mistake_type": "Indian English phrase",
+    "better_professional_version": "I have a question about this issue."
+  },
+  {
+    "id": 3,
+    "wrong_sentence": "Please revert back.",
+    "correct_sentence": "Please reply.",
+    "explanation": "This is a word choice mistake. Use the corrected form for clear English.",
+    "mistake_type": "word choice",
+    "better_professional_version": "Please reply when you get a chance."
+  },
+  {
+    "id": 4,
+    "wrong_sentence": "Kindly do the needful.",
+    "correct_sentence": "Please take the required action.",
+    "explanation": "This is a unclear professional phrase mistake. Use the corrected form for clear English.",
+    "mistake_type": "unclear professional phrase",
+    "better_professional_version": "Please take the required action."
+  },
+  {
+    "id": 5,
+    "wrong_sentence": "Today morning I completed it.",
+    "correct_sentence": "I completed it this morning.",
+    "explanation": "This is a time expression mistake. Use the corrected form for clear English.",
+    "mistake_type": "time expression",
+    "better_professional_version": "I completed it this morning."
+  },
+  {
+    "id": 6,
+    "wrong_sentence": "She do not have access.",
+    "correct_sentence": "She does not have access.",
+    "explanation": "This is a subject-verb agreement mistake. Use the corrected form for clear English.",
+    "mistake_type": "subject-verb agreement",
+    "better_professional_version": "She does not have access to the portal."
+  },
+  {
+    "id": 7,
+    "wrong_sentence": "I has completed the work.",
+    "correct_sentence": "I have completed the work.",
+    "explanation": "This is a verb form mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb form",
+    "better_professional_version": "I have completed the work."
+  },
+  {
+    "id": 8,
+    "wrong_sentence": "He have the logs.",
+    "correct_sentence": "He has the logs.",
+    "explanation": "This is a verb form mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb form",
+    "better_professional_version": "He has the required logs."
+  },
+  {
+    "id": 9,
+    "wrong_sentence": "Did you went there?",
+    "correct_sentence": "Did you go there?",
+    "explanation": "This is a past after did mistake. Use the corrected form for clear English.",
+    "mistake_type": "past after did",
+    "better_professional_version": "Did you go there?"
+  },
+  {
+    "id": 10,
+    "wrong_sentence": "This is more better.",
+    "correct_sentence": "This is better.",
+    "explanation": "This is a double comparative mistake. Use the corrected form for clear English.",
+    "mistake_type": "double comparative",
+    "better_professional_version": "This option is better."
+  },
+  {
+    "id": 11,
+    "wrong_sentence": "We discussed about the issue.",
+    "correct_sentence": "We discussed the issue.",
+    "explanation": "This is a unnecessary preposition mistake. Use the corrected form for clear English.",
+    "mistake_type": "unnecessary preposition",
+    "better_professional_version": "We discussed the issue during the call."
+  },
+  {
+    "id": 12,
+    "wrong_sentence": "Does she knows the update?",
+    "correct_sentence": "Does she know the update?",
+    "explanation": "This is a base verb after does mistake. Use the corrected form for clear English.",
+    "mistake_type": "base verb after does",
+    "better_professional_version": "Does she know the latest update?"
+  },
+  {
+    "id": 13,
+    "wrong_sentence": "Please share me the logs.",
+    "correct_sentence": "Please share the logs with me.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "Please share the required logs with me."
+  },
+  {
+    "id": 14,
+    "wrong_sentence": "I will update you in Monday.",
+    "correct_sentence": "I will update you on Monday.",
+    "explanation": "This is a preposition mistake. Use the corrected form for clear English.",
+    "mistake_type": "preposition",
+    "better_professional_version": "I will update you on Monday."
+  },
+  {
+    "id": 15,
+    "wrong_sentence": "The informations are correct.",
+    "correct_sentence": "The information is correct.",
+    "explanation": "This is a uncountable noun mistake. Use the corrected form for clear English.",
+    "mistake_type": "uncountable noun",
+    "better_professional_version": "The information is correct."
+  },
+  {
+    "id": 16,
+    "wrong_sentence": "I joined meeting.",
+    "correct_sentence": "I joined the meeting.",
+    "explanation": "This is a article mistake. Use the corrected form for clear English.",
+    "mistake_type": "article",
+    "better_professional_version": "I joined the meeting at 10 AM."
+  },
+  {
+    "id": 17,
+    "wrong_sentence": "The issue got resolved by me.",
+    "correct_sentence": "I resolved the issue.",
+    "explanation": "This is a active voice mistake. Use the corrected form for clear English.",
+    "mistake_type": "active voice",
+    "better_professional_version": "I resolved the issue."
+  },
+  {
+    "id": 18,
+    "wrong_sentence": "Please confirm me the ID.",
+    "correct_sentence": "Please confirm the ID with me.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "Could you please confirm the Azure subscription ID?"
+  },
+  {
+    "id": 19,
+    "wrong_sentence": "I will explain you.",
+    "correct_sentence": "I will explain it to you.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "I will explain the issue to you."
+  },
+  {
+    "id": 20,
+    "wrong_sentence": "Myself Ishan.",
+    "correct_sentence": "I am Ishan.",
+    "explanation": "This is a self-introduction mistake. Use the corrected form for clear English.",
+    "mistake_type": "self-introduction",
+    "better_professional_version": "My name is Ishan."
+  },
+  {
+    "id": 21,
+    "wrong_sentence": "He do not know the answer.",
+    "correct_sentence": "He does not know the answer.",
+    "explanation": "This is a subject-verb agreement mistake. Use the corrected form for clear English.",
+    "mistake_type": "subject-verb agreement",
+    "better_professional_version": "He does not know the answer."
+  },
+  {
+    "id": 22,
+    "wrong_sentence": "I am having a doubt.",
+    "correct_sentence": "I have a question.",
+    "explanation": "This is a Indian English phrase mistake. Use the corrected form for clear English.",
+    "mistake_type": "Indian English phrase",
+    "better_professional_version": "I have a question about this issue."
+  },
+  {
+    "id": 23,
+    "wrong_sentence": "Please revert back.",
+    "correct_sentence": "Please reply.",
+    "explanation": "This is a word choice mistake. Use the corrected form for clear English.",
+    "mistake_type": "word choice",
+    "better_professional_version": "Please reply when you get a chance."
+  },
+  {
+    "id": 24,
+    "wrong_sentence": "Kindly do the needful.",
+    "correct_sentence": "Please take the required action.",
+    "explanation": "This is a unclear professional phrase mistake. Use the corrected form for clear English.",
+    "mistake_type": "unclear professional phrase",
+    "better_professional_version": "Please take the required action."
+  },
+  {
+    "id": 25,
+    "wrong_sentence": "Today morning I completed it.",
+    "correct_sentence": "I completed it this morning.",
+    "explanation": "This is a time expression mistake. Use the corrected form for clear English.",
+    "mistake_type": "time expression",
+    "better_professional_version": "I completed it this morning."
+  },
+  {
+    "id": 26,
+    "wrong_sentence": "She do not have access.",
+    "correct_sentence": "She does not have access.",
+    "explanation": "This is a subject-verb agreement mistake. Use the corrected form for clear English.",
+    "mistake_type": "subject-verb agreement",
+    "better_professional_version": "She does not have access to the portal."
+  },
+  {
+    "id": 27,
+    "wrong_sentence": "I has completed the work.",
+    "correct_sentence": "I have completed the work.",
+    "explanation": "This is a verb form mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb form",
+    "better_professional_version": "I have completed the work."
+  },
+  {
+    "id": 28,
+    "wrong_sentence": "He have the logs.",
+    "correct_sentence": "He has the logs.",
+    "explanation": "This is a verb form mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb form",
+    "better_professional_version": "He has the required logs."
+  },
+  {
+    "id": 29,
+    "wrong_sentence": "Did you went there?",
+    "correct_sentence": "Did you go there?",
+    "explanation": "This is a past after did mistake. Use the corrected form for clear English.",
+    "mistake_type": "past after did",
+    "better_professional_version": "Did you go there?"
+  },
+  {
+    "id": 30,
+    "wrong_sentence": "This is more better.",
+    "correct_sentence": "This is better.",
+    "explanation": "This is a double comparative mistake. Use the corrected form for clear English.",
+    "mistake_type": "double comparative",
+    "better_professional_version": "This option is better."
+  },
+  {
+    "id": 31,
+    "wrong_sentence": "We discussed about the issue.",
+    "correct_sentence": "We discussed the issue.",
+    "explanation": "This is a unnecessary preposition mistake. Use the corrected form for clear English.",
+    "mistake_type": "unnecessary preposition",
+    "better_professional_version": "We discussed the issue during the call."
+  },
+  {
+    "id": 32,
+    "wrong_sentence": "Does she knows the update?",
+    "correct_sentence": "Does she know the update?",
+    "explanation": "This is a base verb after does mistake. Use the corrected form for clear English.",
+    "mistake_type": "base verb after does",
+    "better_professional_version": "Does she know the latest update?"
+  },
+  {
+    "id": 33,
+    "wrong_sentence": "Please share me the logs.",
+    "correct_sentence": "Please share the logs with me.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "Please share the required logs with me."
+  },
+  {
+    "id": 34,
+    "wrong_sentence": "I will update you in Monday.",
+    "correct_sentence": "I will update you on Monday.",
+    "explanation": "This is a preposition mistake. Use the corrected form for clear English.",
+    "mistake_type": "preposition",
+    "better_professional_version": "I will update you on Monday."
+  },
+  {
+    "id": 35,
+    "wrong_sentence": "The informations are correct.",
+    "correct_sentence": "The information is correct.",
+    "explanation": "This is a uncountable noun mistake. Use the corrected form for clear English.",
+    "mistake_type": "uncountable noun",
+    "better_professional_version": "The information is correct."
+  },
+  {
+    "id": 36,
+    "wrong_sentence": "I joined meeting.",
+    "correct_sentence": "I joined the meeting.",
+    "explanation": "This is a article mistake. Use the corrected form for clear English.",
+    "mistake_type": "article",
+    "better_professional_version": "I joined the meeting at 10 AM."
+  },
+  {
+    "id": 37,
+    "wrong_sentence": "The issue got resolved by me.",
+    "correct_sentence": "I resolved the issue.",
+    "explanation": "This is a active voice mistake. Use the corrected form for clear English.",
+    "mistake_type": "active voice",
+    "better_professional_version": "I resolved the issue."
+  },
+  {
+    "id": 38,
+    "wrong_sentence": "Please confirm me the ID.",
+    "correct_sentence": "Please confirm the ID with me.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "Could you please confirm the Azure subscription ID?"
+  },
+  {
+    "id": 39,
+    "wrong_sentence": "I will explain you.",
+    "correct_sentence": "I will explain it to you.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "I will explain the issue to you."
+  },
+  {
+    "id": 40,
+    "wrong_sentence": "Myself Ishan.",
+    "correct_sentence": "I am Ishan.",
+    "explanation": "This is a self-introduction mistake. Use the corrected form for clear English.",
+    "mistake_type": "self-introduction",
+    "better_professional_version": "My name is Ishan."
+  },
+  {
+    "id": 41,
+    "wrong_sentence": "He do not know the answer.",
+    "correct_sentence": "He does not know the answer.",
+    "explanation": "This is a subject-verb agreement mistake. Use the corrected form for clear English.",
+    "mistake_type": "subject-verb agreement",
+    "better_professional_version": "He does not know the answer."
+  },
+  {
+    "id": 42,
+    "wrong_sentence": "I am having a doubt.",
+    "correct_sentence": "I have a question.",
+    "explanation": "This is a Indian English phrase mistake. Use the corrected form for clear English.",
+    "mistake_type": "Indian English phrase",
+    "better_professional_version": "I have a question about this issue."
+  },
+  {
+    "id": 43,
+    "wrong_sentence": "Please revert back.",
+    "correct_sentence": "Please reply.",
+    "explanation": "This is a word choice mistake. Use the corrected form for clear English.",
+    "mistake_type": "word choice",
+    "better_professional_version": "Please reply when you get a chance."
+  },
+  {
+    "id": 44,
+    "wrong_sentence": "Kindly do the needful.",
+    "correct_sentence": "Please take the required action.",
+    "explanation": "This is a unclear professional phrase mistake. Use the corrected form for clear English.",
+    "mistake_type": "unclear professional phrase",
+    "better_professional_version": "Please take the required action."
+  },
+  {
+    "id": 45,
+    "wrong_sentence": "Today morning I completed it.",
+    "correct_sentence": "I completed it this morning.",
+    "explanation": "This is a time expression mistake. Use the corrected form for clear English.",
+    "mistake_type": "time expression",
+    "better_professional_version": "I completed it this morning."
+  },
+  {
+    "id": 46,
+    "wrong_sentence": "She do not have access.",
+    "correct_sentence": "She does not have access.",
+    "explanation": "This is a subject-verb agreement mistake. Use the corrected form for clear English.",
+    "mistake_type": "subject-verb agreement",
+    "better_professional_version": "She does not have access to the portal."
+  },
+  {
+    "id": 47,
+    "wrong_sentence": "I has completed the work.",
+    "correct_sentence": "I have completed the work.",
+    "explanation": "This is a verb form mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb form",
+    "better_professional_version": "I have completed the work."
+  },
+  {
+    "id": 48,
+    "wrong_sentence": "He have the logs.",
+    "correct_sentence": "He has the logs.",
+    "explanation": "This is a verb form mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb form",
+    "better_professional_version": "He has the required logs."
+  },
+  {
+    "id": 49,
+    "wrong_sentence": "Did you went there?",
+    "correct_sentence": "Did you go there?",
+    "explanation": "This is a past after did mistake. Use the corrected form for clear English.",
+    "mistake_type": "past after did",
+    "better_professional_version": "Did you go there?"
+  },
+  {
+    "id": 50,
+    "wrong_sentence": "This is more better.",
+    "correct_sentence": "This is better.",
+    "explanation": "This is a double comparative mistake. Use the corrected form for clear English.",
+    "mistake_type": "double comparative",
+    "better_professional_version": "This option is better."
+  },
+  {
+    "id": 51,
+    "wrong_sentence": "We discussed about the issue.",
+    "correct_sentence": "We discussed the issue.",
+    "explanation": "This is a unnecessary preposition mistake. Use the corrected form for clear English.",
+    "mistake_type": "unnecessary preposition",
+    "better_professional_version": "We discussed the issue during the call."
+  },
+  {
+    "id": 52,
+    "wrong_sentence": "Does she knows the update?",
+    "correct_sentence": "Does she know the update?",
+    "explanation": "This is a base verb after does mistake. Use the corrected form for clear English.",
+    "mistake_type": "base verb after does",
+    "better_professional_version": "Does she know the latest update?"
+  },
+  {
+    "id": 53,
+    "wrong_sentence": "Please share me the logs.",
+    "correct_sentence": "Please share the logs with me.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "Please share the required logs with me."
+  },
+  {
+    "id": 54,
+    "wrong_sentence": "I will update you in Monday.",
+    "correct_sentence": "I will update you on Monday.",
+    "explanation": "This is a preposition mistake. Use the corrected form for clear English.",
+    "mistake_type": "preposition",
+    "better_professional_version": "I will update you on Monday."
+  },
+  {
+    "id": 55,
+    "wrong_sentence": "The informations are correct.",
+    "correct_sentence": "The information is correct.",
+    "explanation": "This is a uncountable noun mistake. Use the corrected form for clear English.",
+    "mistake_type": "uncountable noun",
+    "better_professional_version": "The information is correct."
+  },
+  {
+    "id": 56,
+    "wrong_sentence": "I joined meeting.",
+    "correct_sentence": "I joined the meeting.",
+    "explanation": "This is a article mistake. Use the corrected form for clear English.",
+    "mistake_type": "article",
+    "better_professional_version": "I joined the meeting at 10 AM."
+  },
+  {
+    "id": 57,
+    "wrong_sentence": "The issue got resolved by me.",
+    "correct_sentence": "I resolved the issue.",
+    "explanation": "This is a active voice mistake. Use the corrected form for clear English.",
+    "mistake_type": "active voice",
+    "better_professional_version": "I resolved the issue."
+  },
+  {
+    "id": 58,
+    "wrong_sentence": "Please confirm me the ID.",
+    "correct_sentence": "Please confirm the ID with me.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "Could you please confirm the Azure subscription ID?"
+  },
+  {
+    "id": 59,
+    "wrong_sentence": "I will explain you.",
+    "correct_sentence": "I will explain it to you.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "I will explain the issue to you."
+  },
+  {
+    "id": 60,
+    "wrong_sentence": "Myself Ishan.",
+    "correct_sentence": "I am Ishan.",
+    "explanation": "This is a self-introduction mistake. Use the corrected form for clear English.",
+    "mistake_type": "self-introduction",
+    "better_professional_version": "My name is Ishan."
+  },
+  {
+    "id": 61,
+    "wrong_sentence": "He do not know the answer.",
+    "correct_sentence": "He does not know the answer.",
+    "explanation": "This is a subject-verb agreement mistake. Use the corrected form for clear English.",
+    "mistake_type": "subject-verb agreement",
+    "better_professional_version": "He does not know the answer."
+  },
+  {
+    "id": 62,
+    "wrong_sentence": "I am having a doubt.",
+    "correct_sentence": "I have a question.",
+    "explanation": "This is a Indian English phrase mistake. Use the corrected form for clear English.",
+    "mistake_type": "Indian English phrase",
+    "better_professional_version": "I have a question about this issue."
+  },
+  {
+    "id": 63,
+    "wrong_sentence": "Please revert back.",
+    "correct_sentence": "Please reply.",
+    "explanation": "This is a word choice mistake. Use the corrected form for clear English.",
+    "mistake_type": "word choice",
+    "better_professional_version": "Please reply when you get a chance."
+  },
+  {
+    "id": 64,
+    "wrong_sentence": "Kindly do the needful.",
+    "correct_sentence": "Please take the required action.",
+    "explanation": "This is a unclear professional phrase mistake. Use the corrected form for clear English.",
+    "mistake_type": "unclear professional phrase",
+    "better_professional_version": "Please take the required action."
+  },
+  {
+    "id": 65,
+    "wrong_sentence": "Today morning I completed it.",
+    "correct_sentence": "I completed it this morning.",
+    "explanation": "This is a time expression mistake. Use the corrected form for clear English.",
+    "mistake_type": "time expression",
+    "better_professional_version": "I completed it this morning."
+  },
+  {
+    "id": 66,
+    "wrong_sentence": "She do not have access.",
+    "correct_sentence": "She does not have access.",
+    "explanation": "This is a subject-verb agreement mistake. Use the corrected form for clear English.",
+    "mistake_type": "subject-verb agreement",
+    "better_professional_version": "She does not have access to the portal."
+  },
+  {
+    "id": 67,
+    "wrong_sentence": "I has completed the work.",
+    "correct_sentence": "I have completed the work.",
+    "explanation": "This is a verb form mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb form",
+    "better_professional_version": "I have completed the work."
+  },
+  {
+    "id": 68,
+    "wrong_sentence": "He have the logs.",
+    "correct_sentence": "He has the logs.",
+    "explanation": "This is a verb form mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb form",
+    "better_professional_version": "He has the required logs."
+  },
+  {
+    "id": 69,
+    "wrong_sentence": "Did you went there?",
+    "correct_sentence": "Did you go there?",
+    "explanation": "This is a past after did mistake. Use the corrected form for clear English.",
+    "mistake_type": "past after did",
+    "better_professional_version": "Did you go there?"
+  },
+  {
+    "id": 70,
+    "wrong_sentence": "This is more better.",
+    "correct_sentence": "This is better.",
+    "explanation": "This is a double comparative mistake. Use the corrected form for clear English.",
+    "mistake_type": "double comparative",
+    "better_professional_version": "This option is better."
+  },
+  {
+    "id": 71,
+    "wrong_sentence": "We discussed about the issue.",
+    "correct_sentence": "We discussed the issue.",
+    "explanation": "This is a unnecessary preposition mistake. Use the corrected form for clear English.",
+    "mistake_type": "unnecessary preposition",
+    "better_professional_version": "We discussed the issue during the call."
+  },
+  {
+    "id": 72,
+    "wrong_sentence": "Does she knows the update?",
+    "correct_sentence": "Does she know the update?",
+    "explanation": "This is a base verb after does mistake. Use the corrected form for clear English.",
+    "mistake_type": "base verb after does",
+    "better_professional_version": "Does she know the latest update?"
+  },
+  {
+    "id": 73,
+    "wrong_sentence": "Please share me the logs.",
+    "correct_sentence": "Please share the logs with me.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "Please share the required logs with me."
+  },
+  {
+    "id": 74,
+    "wrong_sentence": "I will update you in Monday.",
+    "correct_sentence": "I will update you on Monday.",
+    "explanation": "This is a preposition mistake. Use the corrected form for clear English.",
+    "mistake_type": "preposition",
+    "better_professional_version": "I will update you on Monday."
+  },
+  {
+    "id": 75,
+    "wrong_sentence": "The informations are correct.",
+    "correct_sentence": "The information is correct.",
+    "explanation": "This is a uncountable noun mistake. Use the corrected form for clear English.",
+    "mistake_type": "uncountable noun",
+    "better_professional_version": "The information is correct."
+  },
+  {
+    "id": 76,
+    "wrong_sentence": "I joined meeting.",
+    "correct_sentence": "I joined the meeting.",
+    "explanation": "This is a article mistake. Use the corrected form for clear English.",
+    "mistake_type": "article",
+    "better_professional_version": "I joined the meeting at 10 AM."
+  },
+  {
+    "id": 77,
+    "wrong_sentence": "The issue got resolved by me.",
+    "correct_sentence": "I resolved the issue.",
+    "explanation": "This is a active voice mistake. Use the corrected form for clear English.",
+    "mistake_type": "active voice",
+    "better_professional_version": "I resolved the issue."
+  },
+  {
+    "id": 78,
+    "wrong_sentence": "Please confirm me the ID.",
+    "correct_sentence": "Please confirm the ID with me.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "Could you please confirm the Azure subscription ID?"
+  },
+  {
+    "id": 79,
+    "wrong_sentence": "I will explain you.",
+    "correct_sentence": "I will explain it to you.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "I will explain the issue to you."
+  },
+  {
+    "id": 80,
+    "wrong_sentence": "Myself Ishan.",
+    "correct_sentence": "I am Ishan.",
+    "explanation": "This is a self-introduction mistake. Use the corrected form for clear English.",
+    "mistake_type": "self-introduction",
+    "better_professional_version": "My name is Ishan."
+  },
+  {
+    "id": 81,
+    "wrong_sentence": "He do not know the answer.",
+    "correct_sentence": "He does not know the answer.",
+    "explanation": "This is a subject-verb agreement mistake. Use the corrected form for clear English.",
+    "mistake_type": "subject-verb agreement",
+    "better_professional_version": "He does not know the answer."
+  },
+  {
+    "id": 82,
+    "wrong_sentence": "I am having a doubt.",
+    "correct_sentence": "I have a question.",
+    "explanation": "This is a Indian English phrase mistake. Use the corrected form for clear English.",
+    "mistake_type": "Indian English phrase",
+    "better_professional_version": "I have a question about this issue."
+  },
+  {
+    "id": 83,
+    "wrong_sentence": "Please revert back.",
+    "correct_sentence": "Please reply.",
+    "explanation": "This is a word choice mistake. Use the corrected form for clear English.",
+    "mistake_type": "word choice",
+    "better_professional_version": "Please reply when you get a chance."
+  },
+  {
+    "id": 84,
+    "wrong_sentence": "Kindly do the needful.",
+    "correct_sentence": "Please take the required action.",
+    "explanation": "This is a unclear professional phrase mistake. Use the corrected form for clear English.",
+    "mistake_type": "unclear professional phrase",
+    "better_professional_version": "Please take the required action."
+  },
+  {
+    "id": 85,
+    "wrong_sentence": "Today morning I completed it.",
+    "correct_sentence": "I completed it this morning.",
+    "explanation": "This is a time expression mistake. Use the corrected form for clear English.",
+    "mistake_type": "time expression",
+    "better_professional_version": "I completed it this morning."
+  },
+  {
+    "id": 86,
+    "wrong_sentence": "She do not have access.",
+    "correct_sentence": "She does not have access.",
+    "explanation": "This is a subject-verb agreement mistake. Use the corrected form for clear English.",
+    "mistake_type": "subject-verb agreement",
+    "better_professional_version": "She does not have access to the portal."
+  },
+  {
+    "id": 87,
+    "wrong_sentence": "I has completed the work.",
+    "correct_sentence": "I have completed the work.",
+    "explanation": "This is a verb form mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb form",
+    "better_professional_version": "I have completed the work."
+  },
+  {
+    "id": 88,
+    "wrong_sentence": "He have the logs.",
+    "correct_sentence": "He has the logs.",
+    "explanation": "This is a verb form mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb form",
+    "better_professional_version": "He has the required logs."
+  },
+  {
+    "id": 89,
+    "wrong_sentence": "Did you went there?",
+    "correct_sentence": "Did you go there?",
+    "explanation": "This is a past after did mistake. Use the corrected form for clear English.",
+    "mistake_type": "past after did",
+    "better_professional_version": "Did you go there?"
+  },
+  {
+    "id": 90,
+    "wrong_sentence": "This is more better.",
+    "correct_sentence": "This is better.",
+    "explanation": "This is a double comparative mistake. Use the corrected form for clear English.",
+    "mistake_type": "double comparative",
+    "better_professional_version": "This option is better."
+  },
+  {
+    "id": 91,
+    "wrong_sentence": "We discussed about the issue.",
+    "correct_sentence": "We discussed the issue.",
+    "explanation": "This is a unnecessary preposition mistake. Use the corrected form for clear English.",
+    "mistake_type": "unnecessary preposition",
+    "better_professional_version": "We discussed the issue during the call."
+  },
+  {
+    "id": 92,
+    "wrong_sentence": "Does she knows the update?",
+    "correct_sentence": "Does she know the update?",
+    "explanation": "This is a base verb after does mistake. Use the corrected form for clear English.",
+    "mistake_type": "base verb after does",
+    "better_professional_version": "Does she know the latest update?"
+  },
+  {
+    "id": 93,
+    "wrong_sentence": "Please share me the logs.",
+    "correct_sentence": "Please share the logs with me.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "Please share the required logs with me."
+  },
+  {
+    "id": 94,
+    "wrong_sentence": "I will update you in Monday.",
+    "correct_sentence": "I will update you on Monday.",
+    "explanation": "This is a preposition mistake. Use the corrected form for clear English.",
+    "mistake_type": "preposition",
+    "better_professional_version": "I will update you on Monday."
+  },
+  {
+    "id": 95,
+    "wrong_sentence": "The informations are correct.",
+    "correct_sentence": "The information is correct.",
+    "explanation": "This is a uncountable noun mistake. Use the corrected form for clear English.",
+    "mistake_type": "uncountable noun",
+    "better_professional_version": "The information is correct."
+  },
+  {
+    "id": 96,
+    "wrong_sentence": "I joined meeting.",
+    "correct_sentence": "I joined the meeting.",
+    "explanation": "This is a article mistake. Use the corrected form for clear English.",
+    "mistake_type": "article",
+    "better_professional_version": "I joined the meeting at 10 AM."
+  },
+  {
+    "id": 97,
+    "wrong_sentence": "The issue got resolved by me.",
+    "correct_sentence": "I resolved the issue.",
+    "explanation": "This is a active voice mistake. Use the corrected form for clear English.",
+    "mistake_type": "active voice",
+    "better_professional_version": "I resolved the issue."
+  },
+  {
+    "id": 98,
+    "wrong_sentence": "Please confirm me the ID.",
+    "correct_sentence": "Please confirm the ID with me.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "Could you please confirm the Azure subscription ID?"
+  },
+  {
+    "id": 99,
+    "wrong_sentence": "I will explain you.",
+    "correct_sentence": "I will explain it to you.",
+    "explanation": "This is a verb pattern mistake. Use the corrected form for clear English.",
+    "mistake_type": "verb pattern",
+    "better_professional_version": "I will explain the issue to you."
+  },
+  {
+    "id": 100,
+    "wrong_sentence": "Myself Ishan.",
+    "correct_sentence": "I am Ishan.",
+    "explanation": "This is a self-introduction mistake. Use the corrected form for clear English.",
+    "mistake_type": "self-introduction",
+    "better_professional_version": "My name is Ishan."
+  }
+]

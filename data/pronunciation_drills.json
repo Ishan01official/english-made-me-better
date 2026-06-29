@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "word": "water",
+    "IPA": "/ˈwɔːtər/",
+    "simple_sound_guide": "WAH-ter or WAW-ter",
+    "American_note": "Often has flap t and final r.",
+    "British_note": "Often no final r.",
+    "practice_sentence": "Please drink water before speaking.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 2,
+    "word": "better",
+    "IPA": "/ˈbetər/",
+    "simple_sound_guide": "BEH-ter",
+    "American_note": "Often sounds like bedder.",
+    "British_note": "Clear t sound may be stronger.",
+    "practice_sentence": "This sentence is better now.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 3,
+    "word": "data",
+    "IPA": "/ˈdeɪtə/ or /ˈdætə/",
+    "simple_sound_guide": "DAY-tuh or DA-tuh",
+    "American_note": "Both DAY-tuh and DA-tuh are heard.",
+    "British_note": "DAY-tuh is common.",
+    "practice_sentence": "The data shows the issue.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 4,
+    "word": "schedule",
+    "IPA": "/ˈskedʒuːl/ or /ˈʃedjuːl/",
+    "simple_sound_guide": "SKEH-jool or SHED-yool",
+    "American_note": "SKEH-jool is common.",
+    "British_note": "SHED-yool is common.",
+    "practice_sentence": "Please check the schedule.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 5,
+    "word": "either",
+    "IPA": "/ˈiːðər/ or /ˈaɪðər/",
+    "simple_sound_guide": "EE-thur or EYE-thur",
+    "American_note": "Both are used.",
+    "British_note": "Both are used.",
+    "practice_sentence": "Either option is fine.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 6,
+    "word": "neither",
+    "IPA": "/ˈniːðər/ or /ˈnaɪðər/",
+    "simple_sound_guide": "NEE-thur or NYE-thur",
+    "American_note": "Both are used.",
+    "British_note": "Both are used.",
+    "practice_sentence": "Neither answer is correct.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 7,
+    "word": "route",
+    "IPA": "/ruːt/ or /raʊt/",
+    "simple_sound_guide": "ROOT or ROWT",
+    "American_note": "Both are common.",
+    "British_note": "ROOT is common.",
+    "practice_sentence": "This is the best route.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 8,
+    "word": "tomato",
+    "IPA": "/təˈmeɪtoʊ/ or /təˈmɑːtəʊ/",
+    "simple_sound_guide": "tuh-MAY-toh or tuh-MAH-toh",
+    "American_note": "tuh-MAY-toh.",
+    "British_note": "tuh-MAH-toh.",
+    "practice_sentence": "I bought a tomato.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 9,
+    "word": "advertisement",
+    "IPA": "/ˌædvərˈtaɪzmənt/ or /ədˈvɜːtɪsmənt/",
+    "simple_sound_guide": "ad-ver-TIZE-ment or ad-VER-tis-ment",
+    "American_note": "TIZE stress is common.",
+    "British_note": "VER stress is common.",
+    "practice_sentence": "The advertisement is clear.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 10,
+    "word": "comfortable",
+    "IPA": "/ˈkʌmftərbəl/",
+    "simple_sound_guide": "KUMF-ter-bul",
+    "American_note": "Often reduced.",
+    "British_note": "Often reduced.",
+    "practice_sentence": "This chair is comfortable.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 11,
+    "word": "development",
+    "IPA": "/dɪˈveləpmənt/",
+    "simple_sound_guide": "di-VEL-up-ment",
+    "American_note": "Stress VEL.",
+    "British_note": "Stress VEL.",
+    "practice_sentence": "Development takes practice.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 12,
+    "word": "world",
+    "IPA": "/wɜːrld/",
+    "simple_sound_guide": "wurld",
+    "American_note": "Final r is clear.",
+    "British_note": "R may be softer.",
+    "practice_sentence": "The world is changing.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 13,
+    "word": "girl",
+    "IPA": "/ɡɜːrl/",
+    "simple_sound_guide": "gurl",
+    "American_note": "Final r is clear.",
+    "British_note": "R may be softer.",
+    "practice_sentence": "The girl is reading.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 14,
+    "word": "work",
+    "IPA": "/wɜːrk/",
+    "simple_sound_guide": "wurk",
+    "American_note": "Final r is clear.",
+    "British_note": "R may be softer.",
+    "practice_sentence": "I work every day.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 15,
+    "word": "thought",
+    "IPA": "/θɔːt/",
+    "simple_sound_guide": "thawt",
+    "American_note": "Keep final t.",
+    "British_note": "Keep final t.",
+    "practice_sentence": "I thought about it.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 16,
+    "word": "though",
+    "IPA": "/ðoʊ/",
+    "simple_sound_guide": "thoh",
+    "American_note": "No final t.",
+    "British_note": "No final t.",
+    "practice_sentence": "It is difficult, though.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 17,
+    "word": "through",
+    "IPA": "/θruː/",
+    "simple_sound_guide": "throo",
+    "American_note": "Start with /θr/.",
+    "British_note": "Start with /θr/.",
+    "practice_sentence": "We went through the logs.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 18,
+    "word": "water",
+    "IPA": "/ˈwɔːtər/",
+    "simple_sound_guide": "WAH-ter or WAW-ter",
+    "American_note": "Often has flap t and final r.",
+    "British_note": "Often no final r.",
+    "practice_sentence": "Please drink water before speaking.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 19,
+    "word": "better",
+    "IPA": "/ˈbetər/",
+    "simple_sound_guide": "BEH-ter",
+    "American_note": "Often sounds like bedder.",
+    "British_note": "Clear t sound may be stronger.",
+    "practice_sentence": "This sentence is better now.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 20,
+    "word": "data",
+    "IPA": "/ˈdeɪtə/ or /ˈdætə/",
+    "simple_sound_guide": "DAY-tuh or DA-tuh",
+    "American_note": "Both DAY-tuh and DA-tuh are heard.",
+    "British_note": "DAY-tuh is common.",
+    "practice_sentence": "The data shows the issue.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 21,
+    "word": "schedule",
+    "IPA": "/ˈskedʒuːl/ or /ˈʃedjuːl/",
+    "simple_sound_guide": "SKEH-jool or SHED-yool",
+    "American_note": "SKEH-jool is common.",
+    "British_note": "SHED-yool is common.",
+    "practice_sentence": "Please check the schedule.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 22,
+    "word": "either",
+    "IPA": "/ˈiːðər/ or /ˈaɪðər/",
+    "simple_sound_guide": "EE-thur or EYE-thur",
+    "American_note": "Both are used.",
+    "British_note": "Both are used.",
+    "practice_sentence": "Either option is fine.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 23,
+    "word": "neither",
+    "IPA": "/ˈniːðər/ or /ˈnaɪðər/",
+    "simple_sound_guide": "NEE-thur or NYE-thur",
+    "American_note": "Both are used.",
+    "British_note": "Both are used.",
+    "practice_sentence": "Neither answer is correct.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 24,
+    "word": "route",
+    "IPA": "/ruːt/ or /raʊt/",
+    "simple_sound_guide": "ROOT or ROWT",
+    "American_note": "Both are common.",
+    "British_note": "ROOT is common.",
+    "practice_sentence": "This is the best route.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 25,
+    "word": "tomato",
+    "IPA": "/təˈmeɪtoʊ/ or /təˈmɑːtəʊ/",
+    "simple_sound_guide": "tuh-MAY-toh or tuh-MAH-toh",
+    "American_note": "tuh-MAY-toh.",
+    "British_note": "tuh-MAH-toh.",
+    "practice_sentence": "I bought a tomato.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 26,
+    "word": "advertisement",
+    "IPA": "/ˌædvərˈtaɪzmənt/ or /ədˈvɜːtɪsmənt/",
+    "simple_sound_guide": "ad-ver-TIZE-ment or ad-VER-tis-ment",
+    "American_note": "TIZE stress is common.",
+    "British_note": "VER stress is common.",
+    "practice_sentence": "The advertisement is clear.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 27,
+    "word": "comfortable",
+    "IPA": "/ˈkʌmftərbəl/",
+    "simple_sound_guide": "KUMF-ter-bul",
+    "American_note": "Often reduced.",
+    "British_note": "Often reduced.",
+    "practice_sentence": "This chair is comfortable.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 28,
+    "word": "development",
+    "IPA": "/dɪˈveləpmənt/",
+    "simple_sound_guide": "di-VEL-up-ment",
+    "American_note": "Stress VEL.",
+    "British_note": "Stress VEL.",
+    "practice_sentence": "Development takes practice.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 29,
+    "word": "world",
+    "IPA": "/wɜːrld/",
+    "simple_sound_guide": "wurld",
+    "American_note": "Final r is clear.",
+    "British_note": "R may be softer.",
+    "practice_sentence": "The world is changing.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 30,
+    "word": "girl",
+    "IPA": "/ɡɜːrl/",
+    "simple_sound_guide": "gurl",
+    "American_note": "Final r is clear.",
+    "British_note": "R may be softer.",
+    "practice_sentence": "The girl is reading.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 31,
+    "word": "work",
+    "IPA": "/wɜːrk/",
+    "simple_sound_guide": "wurk",
+    "American_note": "Final r is clear.",
+    "British_note": "R may be softer.",
+    "practice_sentence": "I work every day.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 32,
+    "word": "thought",
+    "IPA": "/θɔːt/",
+    "simple_sound_guide": "thawt",
+    "American_note": "Keep final t.",
+    "British_note": "Keep final t.",
+    "practice_sentence": "I thought about it.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 33,
+    "word": "though",
+    "IPA": "/ðoʊ/",
+    "simple_sound_guide": "thoh",
+    "American_note": "No final t.",
+    "British_note": "No final t.",
+    "practice_sentence": "It is difficult, though.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 34,
+    "word": "through",
+    "IPA": "/θruː/",
+    "simple_sound_guide": "throo",
+    "American_note": "Start with /θr/.",
+    "British_note": "Start with /θr/.",
+    "practice_sentence": "We went through the logs.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 35,
+    "word": "water",
+    "IPA": "/ˈwɔːtər/",
+    "simple_sound_guide": "WAH-ter or WAW-ter",
+    "American_note": "Often has flap t and final r.",
+    "British_note": "Often no final r.",
+    "practice_sentence": "Please drink water before speaking.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 36,
+    "word": "better",
+    "IPA": "/ˈbetər/",
+    "simple_sound_guide": "BEH-ter",
+    "American_note": "Often sounds like bedder.",
+    "British_note": "Clear t sound may be stronger.",
+    "practice_sentence": "This sentence is better now.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 37,
+    "word": "data",
+    "IPA": "/ˈdeɪtə/ or /ˈdætə/",
+    "simple_sound_guide": "DAY-tuh or DA-tuh",
+    "American_note": "Both DAY-tuh and DA-tuh are heard.",
+    "British_note": "DAY-tuh is common.",
+    "practice_sentence": "The data shows the issue.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 38,
+    "word": "schedule",
+    "IPA": "/ˈskedʒuːl/ or /ˈʃedjuːl/",
+    "simple_sound_guide": "SKEH-jool or SHED-yool",
+    "American_note": "SKEH-jool is common.",
+    "British_note": "SHED-yool is common.",
+    "practice_sentence": "Please check the schedule.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 39,
+    "word": "either",
+    "IPA": "/ˈiːðər/ or /ˈaɪðər/",
+    "simple_sound_guide": "EE-thur or EYE-thur",
+    "American_note": "Both are used.",
+    "British_note": "Both are used.",
+    "practice_sentence": "Either option is fine.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 40,
+    "word": "neither",
+    "IPA": "/ˈniːðər/ or /ˈnaɪðər/",
+    "simple_sound_guide": "NEE-thur or NYE-thur",
+    "American_note": "Both are used.",
+    "British_note": "Both are used.",
+    "practice_sentence": "Neither answer is correct.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 41,
+    "word": "route",
+    "IPA": "/ruːt/ or /raʊt/",
+    "simple_sound_guide": "ROOT or ROWT",
+    "American_note": "Both are common.",
+    "British_note": "ROOT is common.",
+    "practice_sentence": "This is the best route.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 42,
+    "word": "tomato",
+    "IPA": "/təˈmeɪtoʊ/ or /təˈmɑːtəʊ/",
+    "simple_sound_guide": "tuh-MAY-toh or tuh-MAH-toh",
+    "American_note": "tuh-MAY-toh.",
+    "British_note": "tuh-MAH-toh.",
+    "practice_sentence": "I bought a tomato.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 43,
+    "word": "advertisement",
+    "IPA": "/ˌædvərˈtaɪzmənt/ or /ədˈvɜːtɪsmənt/",
+    "simple_sound_guide": "ad-ver-TIZE-ment or ad-VER-tis-ment",
+    "American_note": "TIZE stress is common.",
+    "British_note": "VER stress is common.",
+    "practice_sentence": "The advertisement is clear.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 44,
+    "word": "comfortable",
+    "IPA": "/ˈkʌmftərbəl/",
+    "simple_sound_guide": "KUMF-ter-bul",
+    "American_note": "Often reduced.",
+    "British_note": "Often reduced.",
+    "practice_sentence": "This chair is comfortable.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 45,
+    "word": "development",
+    "IPA": "/dɪˈveləpmənt/",
+    "simple_sound_guide": "di-VEL-up-ment",
+    "American_note": "Stress VEL.",
+    "British_note": "Stress VEL.",
+    "practice_sentence": "Development takes practice.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 46,
+    "word": "world",
+    "IPA": "/wɜːrld/",
+    "simple_sound_guide": "wurld",
+    "American_note": "Final r is clear.",
+    "British_note": "R may be softer.",
+    "practice_sentence": "The world is changing.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 47,
+    "word": "girl",
+    "IPA": "/ɡɜːrl/",
+    "simple_sound_guide": "gurl",
+    "American_note": "Final r is clear.",
+    "British_note": "R may be softer.",
+    "practice_sentence": "The girl is reading.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 48,
+    "word": "work",
+    "IPA": "/wɜːrk/",
+    "simple_sound_guide": "wurk",
+    "American_note": "Final r is clear.",
+    "British_note": "R may be softer.",
+    "practice_sentence": "I work every day.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 49,
+    "word": "thought",
+    "IPA": "/θɔːt/",
+    "simple_sound_guide": "thawt",
+    "American_note": "Keep final t.",
+    "British_note": "Keep final t.",
+    "practice_sentence": "I thought about it.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 50,
+    "word": "though",
+    "IPA": "/ðoʊ/",
+    "simple_sound_guide": "thoh",
+    "American_note": "No final t.",
+    "British_note": "No final t.",
+    "practice_sentence": "It is difficult, though.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 51,
+    "word": "through",
+    "IPA": "/θruː/",
+    "simple_sound_guide": "throo",
+    "American_note": "Start with /θr/.",
+    "British_note": "Start with /θr/.",
+    "practice_sentence": "We went through the logs.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 52,
+    "word": "water",
+    "IPA": "/ˈwɔːtər/",
+    "simple_sound_guide": "WAH-ter or WAW-ter",
+    "American_note": "Often has flap t and final r.",
+    "British_note": "Often no final r.",
+    "practice_sentence": "Please drink water before speaking.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 53,
+    "word": "better",
+    "IPA": "/ˈbetər/",
+    "simple_sound_guide": "BEH-ter",
+    "American_note": "Often sounds like bedder.",
+    "British_note": "Clear t sound may be stronger.",
+    "practice_sentence": "This sentence is better now.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 54,
+    "word": "data",
+    "IPA": "/ˈdeɪtə/ or /ˈdætə/",
+    "simple_sound_guide": "DAY-tuh or DA-tuh",
+    "American_note": "Both DAY-tuh and DA-tuh are heard.",
+    "British_note": "DAY-tuh is common.",
+    "practice_sentence": "The data shows the issue.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 55,
+    "word": "schedule",
+    "IPA": "/ˈskedʒuːl/ or /ˈʃedjuːl/",
+    "simple_sound_guide": "SKEH-jool or SHED-yool",
+    "American_note": "SKEH-jool is common.",
+    "British_note": "SHED-yool is common.",
+    "practice_sentence": "Please check the schedule.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 56,
+    "word": "either",
+    "IPA": "/ˈiːðər/ or /ˈaɪðər/",
+    "simple_sound_guide": "EE-thur or EYE-thur",
+    "American_note": "Both are used.",
+    "British_note": "Both are used.",
+    "practice_sentence": "Either option is fine.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 57,
+    "word": "neither",
+    "IPA": "/ˈniːðər/ or /ˈnaɪðər/",
+    "simple_sound_guide": "NEE-thur or NYE-thur",
+    "American_note": "Both are used.",
+    "British_note": "Both are used.",
+    "practice_sentence": "Neither answer is correct.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 58,
+    "word": "route",
+    "IPA": "/ruːt/ or /raʊt/",
+    "simple_sound_guide": "ROOT or ROWT",
+    "American_note": "Both are common.",
+    "British_note": "ROOT is common.",
+    "practice_sentence": "This is the best route.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 59,
+    "word": "tomato",
+    "IPA": "/təˈmeɪtoʊ/ or /təˈmɑːtəʊ/",
+    "simple_sound_guide": "tuh-MAY-toh or tuh-MAH-toh",
+    "American_note": "tuh-MAY-toh.",
+    "British_note": "tuh-MAH-toh.",
+    "practice_sentence": "I bought a tomato.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  },
+  {
+    "id": 60,
+    "word": "advertisement",
+    "IPA": "/ˌædvərˈtaɪzmənt/ or /ədˈvɜːtɪsmənt/",
+    "simple_sound_guide": "ad-ver-TIZE-ment or ad-VER-tis-ment",
+    "American_note": "TIZE stress is common.",
+    "British_note": "VER stress is common.",
+    "practice_sentence": "The advertisement is clear.",
+    "common_mistake": "Do not pronounce only from spelling. Practice the sound and stress."
+  }
+]

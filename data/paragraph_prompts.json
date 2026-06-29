@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "category": "Daily life",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Daily life topic number 1. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 2,
+    "category": "Work updates",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Work updates topic number 2. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 3,
+    "category": "Technical explanation",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Technical explanation topic number 3. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 4,
+    "category": "Interview answer",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Interview answer topic number 4. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 5,
+    "category": "Public speaking",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Public speaking topic number 5. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 6,
+    "category": "Email response",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Email response topic number 6. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 7,
+    "category": "Ticket/worknote update",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Ticket/worknote update topic number 7. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 8,
+    "category": "Daily life",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Daily life topic number 8. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 9,
+    "category": "Work updates",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Work updates topic number 9. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 10,
+    "category": "Technical explanation",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Technical explanation topic number 10. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 11,
+    "category": "Interview answer",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Interview answer topic number 11. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 12,
+    "category": "Public speaking",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Public speaking topic number 12. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 13,
+    "category": "Email response",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Email response topic number 13. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 14,
+    "category": "Ticket/worknote update",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Ticket/worknote update topic number 14. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 15,
+    "category": "Daily life",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Daily life topic number 15. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 16,
+    "category": "Work updates",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Work updates topic number 16. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 17,
+    "category": "Technical explanation",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Technical explanation topic number 17. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 18,
+    "category": "Interview answer",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Interview answer topic number 18. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 19,
+    "category": "Public speaking",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Public speaking topic number 19. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 20,
+    "category": "Email response",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Email response topic number 20. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 21,
+    "category": "Ticket/worknote update",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Ticket/worknote update topic number 21. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 22,
+    "category": "Daily life",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Daily life topic number 22. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 23,
+    "category": "Work updates",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Work updates topic number 23. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 24,
+    "category": "Technical explanation",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Technical explanation topic number 24. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 25,
+    "category": "Interview answer",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Interview answer topic number 25. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 26,
+    "category": "Public speaking",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Public speaking topic number 26. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 27,
+    "category": "Email response",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Email response topic number 27. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 28,
+    "category": "Ticket/worknote update",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Ticket/worknote update topic number 28. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 29,
+    "category": "Daily life",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Daily life topic number 29. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 30,
+    "category": "Work updates",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Work updates topic number 30. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 31,
+    "category": "Technical explanation",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Technical explanation topic number 31. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 32,
+    "category": "Interview answer",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Interview answer topic number 32. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 33,
+    "category": "Public speaking",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Public speaking topic number 33. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 34,
+    "category": "Email response",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Email response topic number 34. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 35,
+    "category": "Ticket/worknote update",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Ticket/worknote update topic number 35. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 36,
+    "category": "Daily life",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Daily life topic number 36. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 37,
+    "category": "Work updates",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Work updates topic number 37. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 38,
+    "category": "Technical explanation",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Technical explanation topic number 38. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 39,
+    "category": "Interview answer",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Interview answer topic number 39. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 40,
+    "category": "Public speaking",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Public speaking topic number 40. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 41,
+    "category": "Email response",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Email response topic number 41. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 42,
+    "category": "Ticket/worknote update",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Ticket/worknote update topic number 42. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 43,
+    "category": "Daily life",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Daily life topic number 43. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 44,
+    "category": "Work updates",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Work updates topic number 44. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 45,
+    "category": "Technical explanation",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Technical explanation topic number 45. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 46,
+    "category": "Interview answer",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Interview answer topic number 46. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 47,
+    "category": "Public speaking",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Public speaking topic number 47. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 48,
+    "category": "Email response",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Email response topic number 48. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 49,
+    "category": "Ticket/worknote update",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Ticket/worknote update topic number 49. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  },
+  {
+    "id": 50,
+    "category": "Daily life",
+    "prompt": "Write a clear 5-sentence paragraph for this situation: Daily life topic number 50. Include context, action, result, and next step.",
+    "focus": "clarity, grammar, sentence flow, and professional tone"
+  }
+]

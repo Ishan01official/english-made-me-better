@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "question": "Choose the correct verb: He ___ the answer.",
+    "options": [
+      "do not know",
+      "does not know",
+      "does not knows",
+      "do not knows"
+    ],
+    "answer": "does not know",
+    "explanation": "Use does with he/she/it and base verb know."
+  },
+  {
+    "id": 2,
+    "type": "fill_blank",
+    "question": "I ___ a question about this issue.",
+    "options": [],
+    "answer": "have",
+    "explanation": "Use 'have a question', not 'am having a doubt'."
+  },
+  {
+    "id": 3,
+    "type": "correct_sentence",
+    "question": "She have access to the portal.",
+    "options": [],
+    "answer": "She has access to the portal.",
+    "explanation": "Use has with she."
+  },
+  {
+    "id": 4,
+    "type": "find_error",
+    "question": "Today morning I completed the task.",
+    "options": [],
+    "answer": "today morning",
+    "explanation": "Use 'this morning'."
+  },
+  {
+    "id": 5,
+    "type": "rewrite_professionally",
+    "question": "Kindly do the needful.",
+    "options": [],
+    "answer": "Please take the required action.",
+    "explanation": "Use direct, clear professional English."
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "question": "Choose the article: I found ___ issue in the logs.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "Use an before a vowel sound."
+  },
+  {
+    "id": 7,
+    "type": "fill_blank",
+    "question": "The logs ___ errors.",
+    "options": [],
+    "answer": "show",
+    "explanation": "Plural subject takes base verb."
+  },
+  {
+    "id": 8,
+    "type": "correct_sentence",
+    "question": "Did you went to the meeting?",
+    "options": [],
+    "answer": "Did you go to the meeting?",
+    "explanation": "After did, use base verb."
+  },
+  {
+    "id": 9,
+    "type": "find_error",
+    "question": "Please revert back with details.",
+    "options": [],
+    "answer": "revert back",
+    "explanation": "Use reply or respond."
+  },
+  {
+    "id": 10,
+    "type": "rewrite_professionally",
+    "question": "I am having a doubt.",
+    "options": [],
+    "answer": "I have a question.",
+    "explanation": "Use question in professional English."
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "question": "Choose the correct verb: He ___ the answer.",
+    "options": [
+      "do not know",
+      "does not know",
+      "does not knows",
+      "do not knows"
+    ],
+    "answer": "does not know",
+    "explanation": "Use does with he/she/it and base verb know."
+  },
+  {
+    "id": 12,
+    "type": "fill_blank",
+    "question": "I ___ a question about this issue.",
+    "options": [],
+    "answer": "have",
+    "explanation": "Use 'have a question', not 'am having a doubt'."
+  },
+  {
+    "id": 13,
+    "type": "correct_sentence",
+    "question": "She have access to the portal.",
+    "options": [],
+    "answer": "She has access to the portal.",
+    "explanation": "Use has with she."
+  },
+  {
+    "id": 14,
+    "type": "find_error",
+    "question": "Today morning I completed the task.",
+    "options": [],
+    "answer": "today morning",
+    "explanation": "Use 'this morning'."
+  },
+  {
+    "id": 15,
+    "type": "rewrite_professionally",
+    "question": "Kindly do the needful.",
+    "options": [],
+    "answer": "Please take the required action.",
+    "explanation": "Use direct, clear professional English."
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "question": "Choose the article: I found ___ issue in the logs.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "Use an before a vowel sound."
+  },
+  {
+    "id": 17,
+    "type": "fill_blank",
+    "question": "The logs ___ errors.",
+    "options": [],
+    "answer": "show",
+    "explanation": "Plural subject takes base verb."
+  },
+  {
+    "id": 18,
+    "type": "correct_sentence",
+    "question": "Did you went to the meeting?",
+    "options": [],
+    "answer": "Did you go to the meeting?",
+    "explanation": "After did, use base verb."
+  },
+  {
+    "id": 19,
+    "type": "find_error",
+    "question": "Please revert back with details.",
+    "options": [],
+    "answer": "revert back",
+    "explanation": "Use reply or respond."
+  },
+  {
+    "id": 20,
+    "type": "rewrite_professionally",
+    "question": "I am having a doubt.",
+    "options": [],
+    "answer": "I have a question.",
+    "explanation": "Use question in professional English."
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "question": "Choose the correct verb: He ___ the answer.",
+    "options": [
+      "do not know",
+      "does not know",
+      "does not knows",
+      "do not knows"
+    ],
+    "answer": "does not know",
+    "explanation": "Use does with he/she/it and base verb know."
+  },
+  {
+    "id": 22,
+    "type": "fill_blank",
+    "question": "I ___ a question about this issue.",
+    "options": [],
+    "answer": "have",
+    "explanation": "Use 'have a question', not 'am having a doubt'."
+  },
+  {
+    "id": 23,
+    "type": "correct_sentence",
+    "question": "She have access to the portal.",
+    "options": [],
+    "answer": "She has access to the portal.",
+    "explanation": "Use has with she."
+  },
+  {
+    "id": 24,
+    "type": "find_error",
+    "question": "Today morning I completed the task.",
+    "options": [],
+    "answer": "today morning",
+    "explanation": "Use 'this morning'."
+  },
+  {
+    "id": 25,
+    "type": "rewrite_professionally",
+    "question": "Kindly do the needful.",
+    "options": [],
+    "answer": "Please take the required action.",
+    "explanation": "Use direct, clear professional English."
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "question": "Choose the article: I found ___ issue in the logs.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "Use an before a vowel sound."
+  },
+  {
+    "id": 27,
+    "type": "fill_blank",
+    "question": "The logs ___ errors.",
+    "options": [],
+    "answer": "show",
+    "explanation": "Plural subject takes base verb."
+  },
+  {
+    "id": 28,
+    "type": "correct_sentence",
+    "question": "Did you went to the meeting?",
+    "options": [],
+    "answer": "Did you go to the meeting?",
+    "explanation": "After did, use base verb."
+  },
+  {
+    "id": 29,
+    "type": "find_error",
+    "question": "Please revert back with details.",
+    "options": [],
+    "answer": "revert back",
+    "explanation": "Use reply or respond."
+  },
+  {
+    "id": 30,
+    "type": "rewrite_professionally",
+    "question": "I am having a doubt.",
+    "options": [],
+    "answer": "I have a question.",
+    "explanation": "Use question in professional English."
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "question": "Choose the correct verb: He ___ the answer.",
+    "options": [
+      "do not know",
+      "does not know",
+      "does not knows",
+      "do not knows"
+    ],
+    "answer": "does not know",
+    "explanation": "Use does with he/she/it and base verb know."
+  },
+  {
+    "id": 32,
+    "type": "fill_blank",
+    "question": "I ___ a question about this issue.",
+    "options": [],
+    "answer": "have",
+    "explanation": "Use 'have a question', not 'am having a doubt'."
+  },
+  {
+    "id": 33,
+    "type": "correct_sentence",
+    "question": "She have access to the portal.",
+    "options": [],
+    "answer": "She has access to the portal.",
+    "explanation": "Use has with she."
+  },
+  {
+    "id": 34,
+    "type": "find_error",
+    "question": "Today morning I completed the task.",
+    "options": [],
+    "answer": "today morning",
+    "explanation": "Use 'this morning'."
+  },
+  {
+    "id": 35,
+    "type": "rewrite_professionally",
+    "question": "Kindly do the needful.",
+    "options": [],
+    "answer": "Please take the required action.",
+    "explanation": "Use direct, clear professional English."
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "question": "Choose the article: I found ___ issue in the logs.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "Use an before a vowel sound."
+  },
+  {
+    "id": 37,
+    "type": "fill_blank",
+    "question": "The logs ___ errors.",
+    "options": [],
+    "answer": "show",
+    "explanation": "Plural subject takes base verb."
+  },
+  {
+    "id": 38,
+    "type": "correct_sentence",
+    "question": "Did you went to the meeting?",
+    "options": [],
+    "answer": "Did you go to the meeting?",
+    "explanation": "After did, use base verb."
+  },
+  {
+    "id": 39,
+    "type": "find_error",
+    "question": "Please revert back with details.",
+    "options": [],
+    "answer": "revert back",
+    "explanation": "Use reply or respond."
+  },
+  {
+    "id": 40,
+    "type": "rewrite_professionally",
+    "question": "I am having a doubt.",
+    "options": [],
+    "answer": "I have a question.",
+    "explanation": "Use question in professional English."
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "question": "Choose the correct verb: He ___ the answer.",
+    "options": [
+      "do not know",
+      "does not know",
+      "does not knows",
+      "do not knows"
+    ],
+    "answer": "does not know",
+    "explanation": "Use does with he/she/it and base verb know."
+  },
+  {
+    "id": 42,
+    "type": "fill_blank",
+    "question": "I ___ a question about this issue.",
+    "options": [],
+    "answer": "have",
+    "explanation": "Use 'have a question', not 'am having a doubt'."
+  },
+  {
+    "id": 43,
+    "type": "correct_sentence",
+    "question": "She have access to the portal.",
+    "options": [],
+    "answer": "She has access to the portal.",
+    "explanation": "Use has with she."
+  },
+  {
+    "id": 44,
+    "type": "find_error",
+    "question": "Today morning I completed the task.",
+    "options": [],
+    "answer": "today morning",
+    "explanation": "Use 'this morning'."
+  },
+  {
+    "id": 45,
+    "type": "rewrite_professionally",
+    "question": "Kindly do the needful.",
+    "options": [],
+    "answer": "Please take the required action.",
+    "explanation": "Use direct, clear professional English."
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "question": "Choose the article: I found ___ issue in the logs.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "Use an before a vowel sound."
+  },
+  {
+    "id": 47,
+    "type": "fill_blank",
+    "question": "The logs ___ errors.",
+    "options": [],
+    "answer": "show",
+    "explanation": "Plural subject takes base verb."
+  },
+  {
+    "id": 48,
+    "type": "correct_sentence",
+    "question": "Did you went to the meeting?",
+    "options": [],
+    "answer": "Did you go to the meeting?",
+    "explanation": "After did, use base verb."
+  },
+  {
+    "id": 49,
+    "type": "find_error",
+    "question": "Please revert back with details.",
+    "options": [],
+    "answer": "revert back",
+    "explanation": "Use reply or respond."
+  },
+  {
+    "id": 50,
+    "type": "rewrite_professionally",
+    "question": "I am having a doubt.",
+    "options": [],
+    "answer": "I have a question.",
+    "explanation": "Use question in professional English."
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "question": "Choose the correct verb: He ___ the answer.",
+    "options": [
+      "do not know",
+      "does not know",
+      "does not knows",
+      "do not knows"
+    ],
+    "answer": "does not know",
+    "explanation": "Use does with he/she/it and base verb know."
+  },
+  {
+    "id": 52,
+    "type": "fill_blank",
+    "question": "I ___ a question about this issue.",
+    "options": [],
+    "answer": "have",
+    "explanation": "Use 'have a question', not 'am having a doubt'."
+  },
+  {
+    "id": 53,
+    "type": "correct_sentence",
+    "question": "She have access to the portal.",
+    "options": [],
+    "answer": "She has access to the portal.",
+    "explanation": "Use has with she."
+  },
+  {
+    "id": 54,
+    "type": "find_error",
+    "question": "Today morning I completed the task.",
+    "options": [],
+    "answer": "today morning",
+    "explanation": "Use 'this morning'."
+  },
+  {
+    "id": 55,
+    "type": "rewrite_professionally",
+    "question": "Kindly do the needful.",
+    "options": [],
+    "answer": "Please take the required action.",
+    "explanation": "Use direct, clear professional English."
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "question": "Choose the article: I found ___ issue in the logs.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "Use an before a vowel sound."
+  },
+  {
+    "id": 57,
+    "type": "fill_blank",
+    "question": "The logs ___ errors.",
+    "options": [],
+    "answer": "show",
+    "explanation": "Plural subject takes base verb."
+  },
+  {
+    "id": 58,
+    "type": "correct_sentence",
+    "question": "Did you went to the meeting?",
+    "options": [],
+    "answer": "Did you go to the meeting?",
+    "explanation": "After did, use base verb."
+  },
+  {
+    "id": 59,
+    "type": "find_error",
+    "question": "Please revert back with details.",
+    "options": [],
+    "answer": "revert back",
+    "explanation": "Use reply or respond."
+  },
+  {
+    "id": 60,
+    "type": "rewrite_professionally",
+    "question": "I am having a doubt.",
+    "options": [],
+    "answer": "I have a question.",
+    "explanation": "Use question in professional English."
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "question": "Choose the correct verb: He ___ the answer.",
+    "options": [
+      "do not know",
+      "does not know",
+      "does not knows",
+      "do not knows"
+    ],
+    "answer": "does not know",
+    "explanation": "Use does with he/she/it and base verb know."
+  },
+  {
+    "id": 62,
+    "type": "fill_blank",
+    "question": "I ___ a question about this issue.",
+    "options": [],
+    "answer": "have",
+    "explanation": "Use 'have a question', not 'am having a doubt'."
+  },
+  {
+    "id": 63,
+    "type": "correct_sentence",
+    "question": "She have access to the portal.",
+    "options": [],
+    "answer": "She has access to the portal.",
+    "explanation": "Use has with she."
+  },
+  {
+    "id": 64,
+    "type": "find_error",
+    "question": "Today morning I completed the task.",
+    "options": [],
+    "answer": "today morning",
+    "explanation": "Use 'this morning'."
+  },
+  {
+    "id": 65,
+    "type": "rewrite_professionally",
+    "question": "Kindly do the needful.",
+    "options": [],
+    "answer": "Please take the required action.",
+    "explanation": "Use direct, clear professional English."
+  },
+  {
+    "id": 66,
+    "type": "mcq",
+    "question": "Choose the article: I found ___ issue in the logs.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "Use an before a vowel sound."
+  },
+  {
+    "id": 67,
+    "type": "fill_blank",
+    "question": "The logs ___ errors.",
+    "options": [],
+    "answer": "show",
+    "explanation": "Plural subject takes base verb."
+  },
+  {
+    "id": 68,
+    "type": "correct_sentence",
+    "question": "Did you went to the meeting?",
+    "options": [],
+    "answer": "Did you go to the meeting?",
+    "explanation": "After did, use base verb."
+  },
+  {
+    "id": 69,
+    "type": "find_error",
+    "question": "Please revert back with details.",
+    "options": [],
+    "answer": "revert back",
+    "explanation": "Use reply or respond."
+  },
+  {
+    "id": 70,
+    "type": "rewrite_professionally",
+    "question": "I am having a doubt.",
+    "options": [],
+    "answer": "I have a question.",
+    "explanation": "Use question in professional English."
+  },
+  {
+    "id": 71,
+    "type": "mcq",
+    "question": "Choose the correct verb: He ___ the answer.",
+    "options": [
+      "do not know",
+      "does not know",
+      "does not knows",
+      "do not knows"
+    ],
+    "answer": "does not know",
+    "explanation": "Use does with he/she/it and base verb know."
+  },
+  {
+    "id": 72,
+    "type": "fill_blank",
+    "question": "I ___ a question about this issue.",
+    "options": [],
+    "answer": "have",
+    "explanation": "Use 'have a question', not 'am having a doubt'."
+  },
+  {
+    "id": 73,
+    "type": "correct_sentence",
+    "question": "She have access to the portal.",
+    "options": [],
+    "answer": "She has access to the portal.",
+    "explanation": "Use has with she."
+  },
+  {
+    "id": 74,
+    "type": "find_error",
+    "question": "Today morning I completed the task.",
+    "options": [],
+    "answer": "today morning",
+    "explanation": "Use 'this morning'."
+  },
+  {
+    "id": 75,
+    "type": "rewrite_professionally",
+    "question": "Kindly do the needful.",
+    "options": [],
+    "answer": "Please take the required action.",
+    "explanation": "Use direct, clear professional English."
+  },
+  {
+    "id": 76,
+    "type": "mcq",
+    "question": "Choose the article: I found ___ issue in the logs.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "Use an before a vowel sound."
+  },
+  {
+    "id": 77,
+    "type": "fill_blank",
+    "question": "The logs ___ errors.",
+    "options": [],
+    "answer": "show",
+    "explanation": "Plural subject takes base verb."
+  },
+  {
+    "id": 78,
+    "type": "correct_sentence",
+    "question": "Did you went to the meeting?",
+    "options": [],
+    "answer": "Did you go to the meeting?",
+    "explanation": "After did, use base verb."
+  },
+  {
+    "id": 79,
+    "type": "find_error",
+    "question": "Please revert back with details.",
+    "options": [],
+    "answer": "revert back",
+    "explanation": "Use reply or respond."
+  },
+  {
+    "id": 80,
+    "type": "rewrite_professionally",
+    "question": "I am having a doubt.",
+    "options": [],
+    "answer": "I have a question.",
+    "explanation": "Use question in professional English."
+  },
+  {
+    "id": 81,
+    "type": "mcq",
+    "question": "Choose the correct verb: He ___ the answer.",
+    "options": [
+      "do not know",
+      "does not know",
+      "does not knows",
+      "do not knows"
+    ],
+    "answer": "does not know",
+    "explanation": "Use does with he/she/it and base verb know."
+  },
+  {
+    "id": 82,
+    "type": "fill_blank",
+    "question": "I ___ a question about this issue.",
+    "options": [],
+    "answer": "have",
+    "explanation": "Use 'have a question', not 'am having a doubt'."
+  },
+  {
+    "id": 83,
+    "type": "correct_sentence",
+    "question": "She have access to the portal.",
+    "options": [],
+    "answer": "She has access to the portal.",
+    "explanation": "Use has with she."
+  },
+  {
+    "id": 84,
+    "type": "find_error",
+    "question": "Today morning I completed the task.",
+    "options": [],
+    "answer": "today morning",
+    "explanation": "Use 'this morning'."
+  },
+  {
+    "id": 85,
+    "type": "rewrite_professionally",
+    "question": "Kindly do the needful.",
+    "options": [],
+    "answer": "Please take the required action.",
+    "explanation": "Use direct, clear professional English."
+  },
+  {
+    "id": 86,
+    "type": "mcq",
+    "question": "Choose the article: I found ___ issue in the logs.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "Use an before a vowel sound."
+  },
+  {
+    "id": 87,
+    "type": "fill_blank",
+    "question": "The logs ___ errors.",
+    "options": [],
+    "answer": "show",
+    "explanation": "Plural subject takes base verb."
+  },
+  {
+    "id": 88,
+    "type": "correct_sentence",
+    "question": "Did you went to the meeting?",
+    "options": [],
+    "answer": "Did you go to the meeting?",
+    "explanation": "After did, use base verb."
+  },
+  {
+    "id": 89,
+    "type": "find_error",
+    "question": "Please revert back with details.",
+    "options": [],
+    "answer": "revert back",
+    "explanation": "Use reply or respond."
+  },
+  {
+    "id": 90,
+    "type": "rewrite_professionally",
+    "question": "I am having a doubt.",
+    "options": [],
+    "answer": "I have a question.",
+    "explanation": "Use question in professional English."
+  },
+  {
+    "id": 91,
+    "type": "mcq",
+    "question": "Choose the correct verb: He ___ the answer.",
+    "options": [
+      "do not know",
+      "does not know",
+      "does not knows",
+      "do not knows"
+    ],
+    "answer": "does not know",
+    "explanation": "Use does with he/she/it and base verb know."
+  },
+  {
+    "id": 92,
+    "type": "fill_blank",
+    "question": "I ___ a question about this issue.",
+    "options": [],
+    "answer": "have",
+    "explanation": "Use 'have a question', not 'am having a doubt'."
+  },
+  {
+    "id": 93,
+    "type": "correct_sentence",
+    "question": "She have access to the portal.",
+    "options": [],
+    "answer": "She has access to the portal.",
+    "explanation": "Use has with she."
+  },
+  {
+    "id": 94,
+    "type": "find_error",
+    "question": "Today morning I completed the task.",
+    "options": [],
+    "answer": "today morning",
+    "explanation": "Use 'this morning'."
+  },
+  {
+    "id": 95,
+    "type": "rewrite_professionally",
+    "question": "Kindly do the needful.",
+    "options": [],
+    "answer": "Please take the required action.",
+    "explanation": "Use direct, clear professional English."
+  },
+  {
+    "id": 96,
+    "type": "mcq",
+    "question": "Choose the article: I found ___ issue in the logs.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "Use an before a vowel sound."
+  },
+  {
+    "id": 97,
+    "type": "fill_blank",
+    "question": "The logs ___ errors.",
+    "options": [],
+    "answer": "show",
+    "explanation": "Plural subject takes base verb."
+  },
+  {
+    "id": 98,
+    "type": "correct_sentence",
+    "question": "Did you went to the meeting?",
+    "options": [],
+    "answer": "Did you go to the meeting?",
+    "explanation": "After did, use base verb."
+  },
+  {
+    "id": 99,
+    "type": "find_error",
+    "question": "Please revert back with details.",
+    "options": [],
+    "answer": "revert back",
+    "explanation": "Use reply or respond."
+  },
+  {
+    "id": 100,
+    "type": "rewrite_professionally",
+    "question": "I am having a doubt.",
+    "options": [],
+    "answer": "I have a question.",
+    "explanation": "Use question in professional English."
+  }
+]

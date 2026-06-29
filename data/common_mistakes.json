@@ -1,0 +1,122 @@
+[
+  {
+    "wrong": "He do not know the answer.",
+    "correct": "He does not know the answer.",
+    "type": "subject-verb agreement",
+    "professional": "He does not know the answer."
+  },
+  {
+    "wrong": "I am having a doubt.",
+    "correct": "I have a question.",
+    "type": "Indian English phrase",
+    "professional": "I have a question about this issue."
+  },
+  {
+    "wrong": "Please revert back.",
+    "correct": "Please reply.",
+    "type": "word choice",
+    "professional": "Please reply when you get a chance."
+  },
+  {
+    "wrong": "Kindly do the needful.",
+    "correct": "Please take the required action.",
+    "type": "unclear professional phrase",
+    "professional": "Please take the required action."
+  },
+  {
+    "wrong": "Today morning I completed it.",
+    "correct": "I completed it this morning.",
+    "type": "time expression",
+    "professional": "I completed it this morning."
+  },
+  {
+    "wrong": "She do not have access.",
+    "correct": "She does not have access.",
+    "type": "subject-verb agreement",
+    "professional": "She does not have access to the portal."
+  },
+  {
+    "wrong": "I has completed the work.",
+    "correct": "I have completed the work.",
+    "type": "verb form",
+    "professional": "I have completed the work."
+  },
+  {
+    "wrong": "He have the logs.",
+    "correct": "He has the logs.",
+    "type": "verb form",
+    "professional": "He has the required logs."
+  },
+  {
+    "wrong": "Did you went there?",
+    "correct": "Did you go there?",
+    "type": "past after did",
+    "professional": "Did you go there?"
+  },
+  {
+    "wrong": "This is more better.",
+    "correct": "This is better.",
+    "type": "double comparative",
+    "professional": "This option is better."
+  },
+  {
+    "wrong": "We discussed about the issue.",
+    "correct": "We discussed the issue.",
+    "type": "unnecessary preposition",
+    "professional": "We discussed the issue during the call."
+  },
+  {
+    "wrong": "Does she knows the update?",
+    "correct": "Does she know the update?",
+    "type": "base verb after does",
+    "professional": "Does she know the latest update?"
+  },
+  {
+    "wrong": "Please share me the logs.",
+    "correct": "Please share the logs with me.",
+    "type": "verb pattern",
+    "professional": "Please share the required logs with me."
+  },
+  {
+    "wrong": "I will update you in Monday.",
+    "correct": "I will update you on Monday.",
+    "type": "preposition",
+    "professional": "I will update you on Monday."
+  },
+  {
+    "wrong": "The informations are correct.",
+    "correct": "The information is correct.",
+    "type": "uncountable noun",
+    "professional": "The information is correct."
+  },
+  {
+    "wrong": "I joined meeting.",
+    "correct": "I joined the meeting.",
+    "type": "article",
+    "professional": "I joined the meeting at 10 AM."
+  },
+  {
+    "wrong": "The issue got resolved by me.",
+    "correct": "I resolved the issue.",
+    "type": "active voice",
+    "professional": "I resolved the issue."
+  },
+  {
+    "wrong": "Please confirm me the ID.",
+    "correct": "Please confirm the ID with me.",
+    "type": "verb pattern",
+    "professional": "Could you please confirm the Azure subscription ID?"
+  },
+  {
+    "wrong": "I will explain you.",
+    "correct": "I will explain it to you.",
+    "type": "verb pattern",
+    "professional": "I will explain the issue to you."
+  },
+  {
+    "wrong": "Myself Ishan.",
+    "correct": "I am Ishan.",
+    "type": "self-introduction",
+    "professional": "My name is Ishan."
+  }
+]
