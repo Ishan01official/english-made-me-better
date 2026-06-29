@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "topic": "education",
+    "prompt": "Some people think education should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 2,
+    "topic": "technology",
+    "prompt": "Some people think technology should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 3,
+    "topic": "environment",
+    "prompt": "Some people think environment should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 4,
+    "topic": "health",
+    "prompt": "Some people think health should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 5,
+    "topic": "work",
+    "prompt": "Some people think work should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 6,
+    "topic": "cities",
+    "prompt": "Some people think cities should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 7,
+    "topic": "transport",
+    "prompt": "Some people think transport should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 8,
+    "topic": "crime",
+    "prompt": "Some people think crime should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 9,
+    "topic": "media",
+    "prompt": "Some people think media should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 10,
+    "topic": "globalization",
+    "prompt": "Some people think globalization should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 11,
+    "topic": "culture",
+    "prompt": "Some people think culture should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 12,
+    "topic": "family",
+    "prompt": "Some people think family should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 13,
+    "topic": "government",
+    "prompt": "Some people think government should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 14,
+    "topic": "science",
+    "prompt": "Some people think science should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 15,
+    "topic": "sports",
+    "prompt": "Some people think sports should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 16,
+    "topic": "tourism",
+    "prompt": "Some people think tourism should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 17,
+    "topic": "advertising",
+    "prompt": "Some people think advertising should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 18,
+    "topic": "children",
+    "prompt": "Some people think children should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 19,
+    "topic": "public money",
+    "prompt": "Some people think public money should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 20,
+    "topic": "online learning",
+    "prompt": "Some people think online learning should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 21,
+    "topic": "education",
+    "prompt": "Some people think education should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 22,
+    "topic": "technology",
+    "prompt": "Some people think technology should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 23,
+    "topic": "environment",
+    "prompt": "Some people think environment should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 24,
+    "topic": "health",
+    "prompt": "Some people think health should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 25,
+    "topic": "work",
+    "prompt": "Some people think work should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 26,
+    "topic": "cities",
+    "prompt": "Some people think cities should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 27,
+    "topic": "transport",
+    "prompt": "Some people think transport should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 28,
+    "topic": "crime",
+    "prompt": "Some people think crime should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 29,
+    "topic": "media",
+    "prompt": "Some people think media should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 30,
+    "topic": "globalization",
+    "prompt": "Some people think globalization should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 31,
+    "topic": "culture",
+    "prompt": "Some people think culture should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 32,
+    "topic": "family",
+    "prompt": "Some people think family should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 33,
+    "topic": "government",
+    "prompt": "Some people think government should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 34,
+    "topic": "science",
+    "prompt": "Some people think science should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 35,
+    "topic": "sports",
+    "prompt": "Some people think sports should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 36,
+    "topic": "tourism",
+    "prompt": "Some people think tourism should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 37,
+    "topic": "advertising",
+    "prompt": "Some people think advertising should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 38,
+    "topic": "children",
+    "prompt": "Some people think children should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 39,
+    "topic": "public money",
+    "prompt": "Some people think public money should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 40,
+    "topic": "online learning",
+    "prompt": "Some people think online learning should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 41,
+    "topic": "education",
+    "prompt": "Some people think education should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 42,
+    "topic": "technology",
+    "prompt": "Some people think technology should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 43,
+    "topic": "environment",
+    "prompt": "Some people think environment should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 44,
+    "topic": "health",
+    "prompt": "Some people think health should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 45,
+    "topic": "work",
+    "prompt": "Some people think work should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 46,
+    "topic": "cities",
+    "prompt": "Some people think cities should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 47,
+    "topic": "transport",
+    "prompt": "Some people think transport should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 48,
+    "topic": "crime",
+    "prompt": "Some people think crime should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 49,
+    "topic": "media",
+    "prompt": "Some people think media should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 50,
+    "topic": "globalization",
+    "prompt": "Some people think globalization should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 51,
+    "topic": "culture",
+    "prompt": "Some people think culture should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 52,
+    "topic": "family",
+    "prompt": "Some people think family should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 53,
+    "topic": "government",
+    "prompt": "Some people think government should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 54,
+    "topic": "science",
+    "prompt": "Some people think science should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 55,
+    "topic": "sports",
+    "prompt": "Some people think sports should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 56,
+    "topic": "tourism",
+    "prompt": "Some people think tourism should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 57,
+    "topic": "advertising",
+    "prompt": "Some people think advertising should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 58,
+    "topic": "children",
+    "prompt": "Some people think children should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 59,
+    "topic": "public money",
+    "prompt": "Some people think public money should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 60,
+    "topic": "online learning",
+    "prompt": "Some people think online learning should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 61,
+    "topic": "education",
+    "prompt": "Some people think education should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 62,
+    "topic": "technology",
+    "prompt": "Some people think technology should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 63,
+    "topic": "environment",
+    "prompt": "Some people think environment should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 64,
+    "topic": "health",
+    "prompt": "Some people think health should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 65,
+    "topic": "work",
+    "prompt": "Some people think work should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 66,
+    "topic": "cities",
+    "prompt": "Some people think cities should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 67,
+    "topic": "transport",
+    "prompt": "Some people think transport should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 68,
+    "topic": "crime",
+    "prompt": "Some people think crime should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 69,
+    "topic": "media",
+    "prompt": "Some people think media should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 70,
+    "topic": "globalization",
+    "prompt": "Some people think globalization should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 71,
+    "topic": "culture",
+    "prompt": "Some people think culture should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 72,
+    "topic": "family",
+    "prompt": "Some people think family should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 73,
+    "topic": "government",
+    "prompt": "Some people think government should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 74,
+    "topic": "science",
+    "prompt": "Some people think science should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 75,
+    "topic": "sports",
+    "prompt": "Some people think sports should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 76,
+    "topic": "tourism",
+    "prompt": "Some people think tourism should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 77,
+    "topic": "advertising",
+    "prompt": "Some people think advertising should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 78,
+    "topic": "children",
+    "prompt": "Some people think children should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 79,
+    "topic": "public money",
+    "prompt": "Some people think public money should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 80,
+    "topic": "online learning",
+    "prompt": "Some people think online learning should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 81,
+    "topic": "education",
+    "prompt": "Some people think education should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 82,
+    "topic": "technology",
+    "prompt": "Some people think technology should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 83,
+    "topic": "environment",
+    "prompt": "Some people think environment should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 84,
+    "topic": "health",
+    "prompt": "Some people think health should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 85,
+    "topic": "work",
+    "prompt": "Some people think work should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 86,
+    "topic": "cities",
+    "prompt": "Some people think cities should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 87,
+    "topic": "transport",
+    "prompt": "Some people think transport should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 88,
+    "topic": "crime",
+    "prompt": "Some people think crime should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 89,
+    "topic": "media",
+    "prompt": "Some people think media should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 90,
+    "topic": "globalization",
+    "prompt": "Some people think globalization should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 91,
+    "topic": "culture",
+    "prompt": "Some people think culture should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 92,
+    "topic": "family",
+    "prompt": "Some people think family should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 93,
+    "topic": "government",
+    "prompt": "Some people think government should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 94,
+    "topic": "science",
+    "prompt": "Some people think science should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 95,
+    "topic": "sports",
+    "prompt": "Some people think sports should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 96,
+    "topic": "tourism",
+    "prompt": "Some people think tourism should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 97,
+    "topic": "advertising",
+    "prompt": "Some people think advertising should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 98,
+    "topic": "children",
+    "prompt": "Some people think children should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 99,
+    "topic": "public money",
+    "prompt": "Some people think public money should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  },
+  {
+    "id": 100,
+    "topic": "online learning",
+    "prompt": "Some people think online learning should be mainly controlled by governments, while others believe individuals should have more responsibility. Discuss both views and give your opinion.",
+    "type": "discussion opinion"
+  }
+]

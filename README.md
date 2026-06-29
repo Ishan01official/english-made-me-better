@@ -173,6 +173,23 @@ Track:
 
 The goal is not perfection. The goal is visible improvement every week.
 
+## IELTS Band 8 Track
+
+This repo now includes a dedicated IELTS preparation system for a minimum Band 8 target within 150 days.
+
+Start here:
+
+- `ielts/README.md`
+- `ielts/STUDY-PLAN-150-DAYS.md`
+- `ielts/IELTS-RESOURCES.md`
+- `ielts/00-band-8-strategy.md`
+
+Generate daily IELTS practice:
+
+```bash
+python scripts/generate_ielts_practice.py
+```
+
 ## Deep Practice Library
 
 For book-style depth and larger example banks, use:
